@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheFilip
 - 👀 I’m interested in: games & art
 - 🌱 I’m currently learning: github, python
-- 💞️ I’m looking to collaborate on: nothing atm
+- 💞️ I’m looking to collaborate on: stuff to analyse
 - 📫 How to reach me: on here?
 
 <!---
